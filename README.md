@@ -1,6 +1,6 @@
 # **Credit Risk Prediction** 
 ## Overview
-This project focuses on predicting credit risk by analyzing loan applicant data. The notebook follows a comprehensive workflow from data loading and cleaning to exploratory data analysis (EDA), feature engineering, and machine learning model implementation. The goal is to build a model that can accurately predict whether a loan application is likely to default on a loan.
+This project focuses on predicting credit risk by analyzing loan applicant data. The notebook follows a comprehensive workflow from data loading and cleaning to exploratory data analysis (EDA), feature engineering, model building, and evaluation.
 
 ## Dataset
 The dataset used is train_u6lujuX_CVtuZ9i (1).csv, containing 614 entries with 13 features:
